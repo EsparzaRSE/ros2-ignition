@@ -1,0 +1,3 @@
+/home/esparza/ROS2_nivel2/ros2_ws_lvl2/src/lidar_sensor/build/CMakeFiles/lidar_node.dir
+/home/esparza/ROS2_nivel2/ros2_ws_lvl2/src/lidar_sensor/build/CMakeFiles/edit_cache.dir
+/home/esparza/ROS2_nivel2/ros2_ws_lvl2/src/lidar_sensor/build/CMakeFiles/rebuild_cache.dir
