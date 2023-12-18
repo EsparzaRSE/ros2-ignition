@@ -100,5 +100,11 @@
         <child link="base_link"/>
         <origin xyz="0 0 ${wheel_radius}" rpy="0 0 0"/>
     </joint>
-    
+
+    <joint name="mobile_base_arm_base_joint" type="fixed">
+        <parent link="base_link"/>
+        <child link="arm_base_link"/>
+        <origin xyz="${base_length/3.5} 0 ${base_height}" rpy="0 0 ${pi/2.0}"/>
+    </joint>
+
 </robot>
