@@ -16,7 +16,7 @@ El robot se puede controlar utilizando las siguientes teclas:
 
 El brazo del robot se puede controlar utilizando la siguiente tecla:
 
-- Intro del teclado numérico (`16777221`): Mueve ambas articulaciones del brazo robótico a la posiicón 0.0.
+- Intro del teclado numérico (`16777221`): Mueve ambas articulaciones del brazo robótico a la posición 0.0.
 
 ## Ejecutar en la terminal
 
