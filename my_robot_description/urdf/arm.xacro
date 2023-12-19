@@ -67,6 +67,7 @@
         <child link="forearm_link"/>
         <origin xyz="0 0 ${arm_base_height}" rpy="0 0 0"/>
         <limit lower="0" upper="${pi/2}" effort="100" velocity="100"/>
+        <dynamics friction="0.05" damping="0.1"/>
     </joint>
 
     <joint name="forearm_hand_joint" type="revolute">
@@ -74,6 +75,7 @@
         <child link="hand_link"/>
         <origin xyz="0 0 ${forearm_length}" rpy="0 0 0"/>
         <limit lower="0" upper="${pi/2}" effort="100" velocity="100"/>
+        <dynamics friction="0.05" damping="0.1"/>
     </joint>
 
 </robot>
