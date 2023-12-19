@@ -17,3 +17,9 @@ El robot se puede controlar utilizando las siguientes teclas:
 El brazo del robot se puede controlar utilizando la siguiente tecla:
 
 - Intro del teclado numérico (`16777221`): Mueve ambas articulaciones del brazo robótico a la posiicón 0.0.
+
+## Ejecutar en la terminal
+
+Para cargar directamente los plugins al iniciar, se recomienda utilizar el siguiente comando (adaptando los path de los archivos a cada caso) para incluir el archivo de configuración de la GUI de Ignition que se encuentra en la carpeta gui.
+
+ign gazebo --gui-config /home/esparza/ROS2_nivel2/ros2_ws_lvl2/src/my_robot_bringup/gui/my_robot_arm_world.config my_robot_arm_world.sdf
