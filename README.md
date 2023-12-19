@@ -1,6 +1,6 @@
 # ROS2 nivel 2 - Ignition
 
-Este repositorio contiene apuntes y ficheros sobre ROS2, específicamente enfocadas en Ignition Fortress, RViz, TF (TransForm), y otras herramientas esenciales para el desarrollo de robots. Estos apuntes están diseñados para usuarios con un nivel intermedio en ROS2 que buscan profundizar en sus conocimientos y habilidades.
+Este repositorio contiene apuntes y ficheros sobre ROS2, específicamente enfocados en Ignition Fortress, RViz, TF (TransForm), y otras herramientas esenciales para el desarrollo de robots. Estos apuntes están diseñados para usuarios con un nivel intermedio en ROS2 que buscan profundizar en sus conocimientos y habilidades.
 
 ## Contenido
 
