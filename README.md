@@ -2,6 +2,10 @@
 
 Este repositorio contiene apuntes y ficheros sobre ROS2, específicamente enfocados en Ignition Fortress, RViz, TF (TransForm), y otras herramientas esenciales para el desarrollo de robots. Estos apuntes están diseñados para usuarios con un nivel intermedio en ROS2 que buscan profundizar en sus conocimientos y habilidades.
 
+## Descargar o consultar los apuntes y documentos relacionados con el repositorio
+
+Se pueden consultar o descargar los apuntes y otros documentos de este repositorio en el siguiente enlace de google drive: [ROS2 Ignition](https://drive.google.com/drive/folders/1UIiLyfWP1A9ip3DoQAtzH64t_sTAl_iH?usp=sharing)
+
 ## Contenido
 
 ### 1. RViz y TF (TransForm)
